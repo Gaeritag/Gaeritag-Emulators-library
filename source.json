@@ -6,7 +6,7 @@
         "name" : "Folium",
         "bundleIdentifier" : "com.antique.Folium-iOS",
         "developerName" : "Jarrod Norwell",
-        "subtitle" : "A fully-featured iOS emulator for 3DS",
+        "subtitle" : "A fully-featured iOS emulator for 3DS, DS and NES",
         "versions" : [
           {
             "version" : "1.1.1",
@@ -21,7 +21,7 @@
         "versionDate" : "2024-10-27",
         "versionDescription" : "• Added support for iPhone 16 series\n• Changed the Cytrus core to the latest original Citra source code\n• Removed Mandarine specific settings from the Cytrus settings screen\n• Update to the latest MoltenVK which should improve performance slightly",
         "downloadURL" : "https://github.com/Gaeritag/Gaeritag-Emulators-library/releases/download/Lastest/Folium1.1.1.ipa",
-        "localizedDescription" : "Emulator for 3DS, DS and NES",
+        "localizedDescription" : "Import your won games and play !",
         "iconURL" : "https://iphonesoft.fr/images/appstore/6498623389/folium-icon.png",
         "tintColor" : "#70a15d",
         "size" : 24300000,
