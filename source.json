@@ -1,37 +1,65 @@
 {
-    "name" : "Emuplace",
-    "identifier" : "com.emuplacelib.emuplacelibrary",
-    "apps" : [
-      {
-        "name" : "Folium",
-        "bundleIdentifier" : "com.antique.Folium-iOS",
-        "developerName" : "Jarrod Norwell",
-        "subtitle" : "A fully-featured iOS emulator for 3DS, DS and NES",
-        "versions" : [
-          {
-            "version" : "1.11",
-            "date" : "2024-10-15",
-            "localizedDescription" : "• Added support for iPhone 16 series\n\n• Changed the Cytrus core to the latest original Citra source code\n\n• Removed Mandarine specific settings from the Cytrus settings screen\n\n• Update to the latest MoltenVK which should improve performance slightly",
-            "downloadURL" : "https://github.com/Gaeritag/Gaeritag-Emulators-library/releases/download/Lastest/Folium1.11.ipa",
-            "size" : 23000000,
-            "minOSVersion" : "10.0"
-          }
-        ],
-        "version" : "1.11",
-        "versionDate" : "2024-10-15",
-        "versionDescription" : "• Added support for iPhone 16 series\n\n• Changed the Cytrus core to the latest original Citra source code\n\n• Removed Mandarine specific settings from the Cytrus settings screen\n\n• Update to the latest MoltenVK which should improve performance slightly",
-        "downloadURL" : "https://github.com/Gaeritag/Gaeritag-Emulators-library/releases/download/Lastest/Folium1.11.ipa",
-        "localizedDescription" : "Import your own games and play !",
-        "iconURL" : "https://iphonesoft.fr/images/appstore/6498623389/folium-icon.png",
-        "tintColor" : "#70a15d",
-        "size" : 24300000,
-        "minOSVersion" : "10.0",
-        "screenshotURLs" : [
-          "https://i.ytimg.com/vi/sq0PWI1pmv8/maxresdefault.jpg",
-          "https://i.ibb.co/DKpcsW4/IMG-0074.png",
-          "https://i.ibb.co/TLZfqBp/IMG-0075.png",
-          "https://i.ibb.co/jr1PMGk/IMG-0076.png"
-        ]
-      }
-    ]
-  }
+  "name" : "Emuplace",
+  "identifier" : "com.emuplacelib.emuplacelibrary",
+  "apps" : [
+    {
+      "name" : "Folium",
+      "bundleIdentifier" : "com.antique.Folium-iOS",
+      "developerName" : "Jarrod Norwell",
+      "subtitle" : "A fully-featured iOS emulator for 3DS, DS and NES",
+      "versions" : [
+        {
+          "version" : "1.11",
+          "date" : "2024-10-15",
+          "localizedDescription" : "• Added support for iPhone 16 series\n\n• Changed the Cytrus core to the latest original Citra source code\n\n• Removed Mandarine specific settings from the Cytrus settings screen\n\n• Update to the latest MoltenVK which should improve performance slightly",
+          "downloadURL" : "https://github.com/Gaeritag/Gaeritag-Emulators-library/releases/download/Lastest/Folium1.11.ipa",
+          "size" : 23000000,
+          "minOSVersion" : "16.0"
+        },
+        {
+          "version" : "1.10",
+          "date" : "2024-09-16",
+          "localizedDescription" : "• Added support for some missing iPad models\n\n• iPad Pro 6th Gen, iPad Pro 7th Gen\n\n• Changed how library loading is handled to stop the game duplication issue\n\n• Fixed an issue where connecting a physical controller would hide the entire emulation screen\n\n• Removed the archive feature in v1.10 and later preventing the worry of lost files",
+          "size" : 23000000,
+          "minOSVersion" : "16.0"
+        },
+        {
+          "version" : "1.9",
+          "date" : "2024-09-11",
+          "localizedDescription" : "• Added automatic hiding and showing of the on-screen controller when a physical controller is connected and disconnected\n\n• Added support for the front camera in the Cytrus core\n\n• Added YUV422 support for both the front and rear cameras in the Cytrus core\n\n• Added an archive feature that will back up and reset the documents directory every major release to ensure a smooth transition between releases\n\n• Added the ability to extract a previous archive reverting any changes\n\n• Added support for the system apps in the Cytrus core\n\n• Changed how several features are handled improving support for both iPad and iPhone\n\n• Fixed crashing when using Sign in with Apple or Skip due to a damaged documents directory\n\n• Fixed an issue with the AES keys in the Cytrus core\n\n• Fixed an issue where the X/Y button on physical controllers would get stuck\n\n• Fixed an issue where system apps would be duplicated in the Cytrus core\n\n• Sorted games within the library screen alphabetically",
+          "size" : 23000000,
+          "minOSVersion" : "16.0"
+        },
+        {
+          "version" : "1.7",
+          "date" : "2024-09-07",
+          "localizedDescription" : "Added SNES emulation through the Mango core\n\n• Added camera support to the Cytrus core\n\n• Added controller support to all cores\n\n• Added a BETA badge to work-in-progress cores\n\n• Added \"Sign in with Apple\" for App Store specific features (optional)\n\n• Added the delete functionality to all cores on the library screen\n\n• Changed on-screen controls and skins improving handling and functionality\n\n• Changed the Cytrus core to a low-end device focused fork of Citra, Mandarine\n\n• Changed how the library and search are handled improving performance and usability\n\n• Changed how the core settings are handled improving usability\n\n• Changed how games and skins are loaded upon launch improving performance\n\n• Fixed issues with the library screen removing memory leaks",
+          "size" : 23000000,
+          "minOSVersion" : "16.0"
+        },
+        {
+          "version" : "1.6",
+          "date" : "2024-07-03",
+          "localizedDescription" : "Adds back support for portrait when using Cytrus on iPhone\n\n• Adds back thumbsticks to both iPad and iPhone\n\n• Adds support for enabling LLE modules (for Pretendo)\n\n• Reduce memory usage by up to 200 MB",
+          "size" : 23000000,
+          "minOSVersion" : "16.0"
+        }
+      ],
+      "version" : "1.11",
+      "versionDate" : "2024-10-15",
+      "versionDescription" : "• Added support for iPhone 16 series\n\n• Changed the Cytrus core to the latest original Citra source code\n\n• Removed Mandarine specific settings from the Cytrus settings screen\n\n• Update to the latest MoltenVK which should improve performance slightly",
+      "downloadURL" : "https://github.com/Gaeritag/Gaeritag-Emulators-library/releases/download/Lastest/Folium1.11.ipa",
+      "localizedDescription" : "Import your own games and play !",
+      "iconURL" : "https://iphonesoft.fr/images/appstore/6498623389/folium-icon.png",
+      "tintColor" : "#70a15d",
+      "size" : 24300000,
+      "minOSVersion" : "16.0",
+      "screenshotURLs" : [
+        "https://i.ytimg.com/vi/sq0PWI1pmv8/maxresdefault.jpg",
+        "https://i.ibb.co/DKpcsW4/IMG-0074.png",
+        "https://i.ibb.co/TLZfqBp/IMG-0075.png",
+        "https://i.ibb.co/jr1PMGk/IMG-0076.png"
+      ]
+    }
+  ]
+}
