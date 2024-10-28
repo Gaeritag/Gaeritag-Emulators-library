@@ -15,7 +15,7 @@
       "developerName" : "Jarrod Norwell",
       "subtitle" : "A fully-featured iOS emulator for 3DS, DS and NES",
       "tintColor" : "70a15d",
-      "downloadURL" : "https://github.com/Gaeritag/Gaeritag-Emulators-library/releases/download/Lastest/Folium1.11.ipa",
+      "downloadURL" : "https://github.com/Gaeritag/Gaeritag-Emulators-library/releases/download/Lastest/Folium_1.11.ipa",
       "iconURL" : "https://i.imgur.com/W9PLRll.png",
       "localizedDescription" : "Import your own games and play !",
       "category" : "Entertainment",
@@ -30,40 +30,8 @@
           "version" : "1.11",
           "date" : "2024-10-15",
           "localizedDescription" : "• Added support for iPhone 16 series\n\n• Changed the Cytrus core to the latest original Citra source code\n\n• Removed Mandarine specific settings from the Cytrus settings screen\n\n• Update to the latest MoltenVK which should improve performance slightly",
-          "downloadURL" : "https://github.com/Gaeritag/Gaeritag-Emulators-library/releases/download/Lastest/Folium1.11.ipa",
+          "downloadURL" : "https://github.com/Gaeritag/Gaeritag-Emulators-library/releases/download/Lastest/Folium_1.11.ipa",
           "size" : 24300000,
-          "minOSVersion" : "16.0"
-        },
-        {
-          "version" : "1.10",
-          "date" : "2024-09-16",
-          "localizedDescription" : "• Added support for some missing iPad models\n\n• iPad Pro 6th Gen, iPad Pro 7th Gen\n\n• Changed how library loading is handled to stop the game duplication issue\n\n• Fixed an issue where connecting a physical controller would hide the entire emulation screen\n\n• Removed the archive feature in v1.10 and later preventing the worry of lost files",
-          "downloadURL" : "https://github.com/Gaeritag/Gaeritag-Emulators-library/releases/download/Lastest/Folium1.10.ipa",
-          "size" : 23000000,
-          "minOSVersion" : "16.0"
-        },
-        {
-          "version" : "1.9",
-          "date" : "2024-09-11",
-          "localizedDescription" : "• Added automatic hiding and showing of the on-screen controller when a physical controller is connected and disconnected\n\n• Added support for the front camera in the Cytrus core\n\n• Added YUV422 support for both the front and rear cameras in the Cytrus core\n\n• Added an archive feature that will back up and reset the documents directory every major release to ensure a smooth transition between releases\n\n• Added the ability to extract a previous archive reverting any changes\n\n• Added support for the system apps in the Cytrus core\n\n• Changed how several features are handled improving support for both iPad and iPhone\n\n• Fixed crashing when using Sign in with Apple or Skip due to a damaged documents directory\n\n• Fixed an issue with the AES keys in the Cytrus core\n\n• Fixed an issue where the X/Y button on physical controllers would get stuck\n\n• Fixed an issue where system apps would be duplicated in the Cytrus core\n\n• Sorted games within the library screen alphabetically",
-          "downloadURL" : "https://github.com/Gaeritag/Gaeritag-Emulators-library/releases/download/Lastest/Folium1.9.ipa",
-          "size" : 22000000,
-          "minOSVersion" : "16.0"
-        },
-        {
-          "version" : "1.7",
-          "date" : "2024-09-07",
-          "localizedDescription" : "Added SNES emulation through the Mango core\n\n• Added camera support to the Cytrus core\n\n• Added controller support to all cores\n\n• Added a BETA badge to work-in-progress cores\n\n• Added \"Sign in with Apple\" for App Store specific features (optional)\n\n• Added the delete functionality to all cores on the library screen\n\n• Changed on-screen controls and skins improving handling and functionality\n\n• Changed the Cytrus core to a low-end device focused fork of Citra, Mandarine\n\n• Changed how the library and search are handled improving performance and usability\n\n• Changed how the core settings are handled improving usability\n\n• Changed how games and skins are loaded upon launch improving performance\n\n• Fixed issues with the library screen removing memory leaks",
-          "downloadURL" : "https://github.com/Gaeritag/Gaeritag-Emulators-library/releases/download/Lastest/Folium1.7.ipa",
-          "size" : 21000000,
-          "minOSVersion" : "16.0"
-        },
-        {
-          "version" : "1.6",
-          "date" : "2024-07-03",
-          "localizedDescription" : "Adds back support for portrait when using Cytrus on iPhone\n\n• Adds back thumbsticks to both iPad and iPhone\n\n• Adds support for enabling LLE modules (for Pretendo)\n\n• Reduce memory usage by up to 200 MB",
-          "downloadURL" : "https://github.com/Gaeritag/Gaeritag-Emulators-library/releases/download/Lastest/Folium1.6.ipa",
-          "size" : 20000000,
           "minOSVersion" : "16.0"
         }
       ],
@@ -72,6 +40,39 @@
       "versionDescription" : "• Added support for iPhone 16 series\n\n• Changed the Cytrus core to the latest original Citra source code\n\n• Removed Mandarine specific settings from the Cytrus settings screen\n\n• Update to the latest MoltenVK which should improve performance slightly",
       "size" : 24300000,
       "minOSVersion" : "16.0"
+    },
+    ,
+    {
+      "name" : "Delta",
+      "bundleIdentifier" : "com.rileytestut.delta",
+      "developerName" : "Riley Testut",
+      "subtitle" : "A fully-featured iOS emulator for Nintendo DS, NES, SNES, Game Boy, Game Boy Color, Game Boy Advance, Nintendo 64 and Sega Genesis",
+      "tintColor" : "9403ad",
+      "downloadURL" : "https://github.com/Gaeritag/Gaeritag-Emulators-library/releases/download/Lastest/Delta_1.6.ipa",
+      "iconURL" : "https://i.imgur.com/Ra204G8.png",
+      "localizedDescription" : "Delta is an all-in-one emulator for iOS. Delta builds upon the strengths of its predecessor, GBA4iOS, while expanding to include support for more game systems such as NES, SNES, and N64.FEATURESSupported Game Systems• Nintendo Entertainment System• Super Nintendo Entertainment System• Nintendo 64• Game Boy (Color)• Game Boy Advance• Nintendo DS• And plenty more to come!Controller Support• Supports PS4, PS5, Xbox One S, Xbox Series X, and MFi game controllers.• Supports bluetooth (and wired) keyboards, as well as the Apple Smart Keyboard.• Completely customize button mappings on a per-system, per-controller basis.• Map buttons to special “Quick Save”, “Quick Load,” and “Fast Forward” actions.Save States• Save and load save states for any game from the pause menu.• Lock save states to prevent them from being accidentally overwritten.• Automatically makes backup save states to ensure you never lose your progress.• Support for “Quick Saves,” save states that can be quickly saved/loaded with a single button press (requires external controller).Cheats• Supports various types of cheat codes for each supported system:• NES: Game Genie• SNES: Game Genie, Pro Action Replay• N64: GameShark• GBC: Game Genie, GameShark• GBA: Action Replay, Code Breaker, GameShark• DS: Action ReplayDelta Sync• Sync your games, game saves, save states, cheats, controller skins, and controller mappings between devices.• View version histories of everything you sync and optionally restore them to earlier versions.• Supports both Google Drive and Dropbox.Custom Controller Skins• Beautiful built-in controller skins for all systems.• Import controller skins made by others, or even make your own to share with the world!Hold Button• Choose buttons for Delta to hold down on your behalf, freeing up your thumbs to press other buttons instead.• Perfect for games that typically require one button be held down constantly (ex: run button in Mario games, or the A button in Mario Kart).Fast Forward• Speed through slower parts of games by running the game much faster than normal.• Easily enable or disable from the pause menu, or optionally with a mapped button on an external controller.3D/Haptic Touch• Use 3D or Haptic Touch to “peek” at games, save states, and cheat codes.• App icon shortcuts allow quick access to your most recently played games, or optionally customize the shortcuts to always include certain games.Game Artwork• Automatically displays appropriate box art for imported games.• Change a game's artwork to anything you want, or select from the built-in game artwork database.Misc.• Gyroscope support (WarioWare: Twisted! only)• Microphone support (DS only)• Support for delta:// URL scheme to jump directly into a specific game.**Delta and AltStore LLC are in no way affiliated with Nintendo. The name \"Nintendo\" and all associated game console names are registered trademarks of Nintendo Co., Ltd.**",
+      "category" : "Entertainment",
+      "screenshotURLs" : [
+        "https://i.imgur.com/gprfbFE.png",
+        "https://i.imgur.com/xRyJpHj.png",
+        "https://i.imgur.com/oAcPf4f.png",
+        "https://i.imgur.com/zc0ELWY.png"
+      ],
+      "versions" : [
+        {
+          "version" : "1.6",
+          "date" : "2024-07-11",
+          "localizedDescription" : "• Added support for iPhone 16 series\n\n• Changed the Cytrus core to the latest original Citra source code\n\n• Removed Mandarine specific settings from the Cytrus settings screen\n\n• Update to the latest MoltenVK which should improve performance slightly",
+          "downloadURL" : "https://github.com/Gaeritag/Gaeritag-Emulators-library/releases/download/Lastest/Folium_1.11.ipa",
+          "size" : 23300000,
+          "minOSVersion" : "14.0"
+        }
+      ],
+      "version" : "1.6",
+      "versionDate" : "2024-07-11",
+      "versionDescription" : "New\n\nApp Icon\n• Brand new legally-compliant app icon (thanks Caroline Moore!)\n• Includes alternative app icons designed by community members:\n• \"Halogenide\" by Sebastiaan de With\n• \"Ketchup\" by Ben McCarthy\n• \"Microchip\" by Sean Fletcher\n\niPad Support\n• Play games full screen on iPad's beautiful display\n• Brand new controller skins designed specifically for iPad (thanks Caroline Moore!)\n• Supports multiple windows in Stage Manager and Split View\n• Automatically pauses games when switching windows (optional)\n\nHandoff\n• Seamlessly switch between iPhone and iPad\n• Continues playing exactly where you left off\n• Also supports Delta on Apple Silicon Macs via Mac App Store\n\nmelonDS 0.9.5\n• Improves DS game compatibility & performance\n• BIOS files are now optional!\n• Supports "inserting" GBA games into DS dual-slot\n• Increased Fast Forward speed to 3x (A15 processor or later)\n\nMenu Button Gestures\n• Use gestures while holding menu button to perform quick actions\n• Menu + Horizontal Swipe: Fast Forward\n• Menu + Any Button: Hold Button\n• Menu + Double-Tap: Quick Save\n• Menu + Long-Press: Quick Load\n\nExperimental Features\n• New section in Settings for features by third-party contributors\n• Features are WIP and should be used at user’s discretion\n• Available for Patrons on "Beta Access" tier or higher\n\nSave States\n• Sort save states by name\n• View all incompatible screenshots on a separate screen\n• Export save states to import into other emulators\n\n“Display Full Screen” AirPlay Setting\n• Control whether Delta shows games full screen on external displays\n• Disable to use multiple windows on external display with Stage Manager\n\nMisc.\n• Supports Game Mode on iOS 18+\n• Increased DS screen size for default edge-to-edge iPhone landscape skin\n\nFixed\n• Fixed exporting save file without file extension\n• Fixed interface rotating when playing WarioWare: Twisted!\n• Fixed Pokemon Black & White (2) freezing with C-Gear enabled",
+      "size" : 23300000,
+      "minOSVersion" : "14.0"
     }
   ]
 }
