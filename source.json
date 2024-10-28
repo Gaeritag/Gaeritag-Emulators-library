@@ -5,9 +5,6 @@
   "iconURL" : "https://i.imgur.com/g17kMl9.jpeg",
   "headerURL" : "https://i.imgur.com/stTk5jP.jpeg",
   "tintColor" : "14d8d2",
-  "featuredApps" : [
-    "com.antique.Folium-iOS"
-  ],
   "apps" : [
     {
       "name" : "Folium",
@@ -31,14 +28,14 @@
           "date" : "2024-10-15",
           "localizedDescription" : "• Added support for iPhone 16 series\n\n• Changed the Cytrus core to the latest original Citra source code\n\n• Removed Mandarine specific settings from the Cytrus settings screen\n\n• Update to the latest MoltenVK which should improve performance slightly",
           "downloadURL" : "https://github.com/Gaeritag/Gaeritag-Emulators-library/releases/download/Lastest/Folium_1.11.ipa",
-          "size" : 24300000,
+          "size" : 19659769,
           "minOSVersion" : "16.0"
         }
       ],
       "version" : "1.11",
       "versionDate" : "2024-10-15",
       "versionDescription" : "• Added support for iPhone 16 series\n\n• Changed the Cytrus core to the latest original Citra source code\n\n• Removed Mandarine specific settings from the Cytrus settings screen\n\n• Update to the latest MoltenVK which should improve performance slightly",
-      "size" : 24300000,
+      "size" : 19659769,
       "minOSVersion" : "16.0"
     },
     {
@@ -63,14 +60,14 @@
           "date" : "2024-07-11",
           "localizedDescription" : "• Added support for iPhone 16 series\n\n• Changed the Cytrus core to the latest original Citra source code\n\n• Removed Mandarine specific settings from the Cytrus settings screen\n\n• Update to the latest MoltenVK which should improve performance slightly",
           "downloadURL" : "https://github.com/Gaeritag/Gaeritag-Emulators-library/releases/download/Lastest/Folium_1.11.ipa",
-          "size" : 23300000,
+          "size" : 87734964,
           "minOSVersion" : "14.0"
         }
       ],
       "version" : "1.6",
       "versionDate" : "2024-07-11",
       "versionDescription" : "a",
-      "size" : 23300000,
+      "size" : 87734964,
       "minOSVersion" : "14.0"
     }
   ]
