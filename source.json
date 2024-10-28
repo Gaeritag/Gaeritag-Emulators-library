@@ -41,7 +41,6 @@
       "size" : 24300000,
       "minOSVersion" : "16.0"
     },
-    ,
     {
       "name" : "Delta",
       "bundleIdentifier" : "com.rileytestut.delta",
