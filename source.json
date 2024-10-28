@@ -1,6 +1,6 @@
 {
-  "name" : "Emuplace",
-  "identifier" : "com.emuplacelib.emuplacelibrary",
+  "name" : "Gaeritag emulators library",
+  "identifier" : "com.gaeritag.emulatorslibrary",
   "subtitle" : "An IPA library to find cool emulators.",
   "iconURL" : "https://i.imgur.com/g17kMl9.jpeg",
   "headerURL" : "https://i.imgur.com/stTk5jP.jpeg",
