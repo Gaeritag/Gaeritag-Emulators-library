@@ -5,9 +5,6 @@
   "iconURL" : "https://i.imgur.com/g17kMl9.jpeg",
   "headerURL" : "https://i.imgur.com/stTk5jP.jpeg",
   "tintColor" : "14d8d2",
-  "featuredApps" : [
-    "com.antique.Folium-iOS"
-  ],
   "apps" : [
     {
       "name" : "Folium",
