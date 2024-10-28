@@ -84,7 +84,6 @@
         "https://cdn.oatmealdome.me/dolphinios/altstore/screenshots/screenshot_6s_3_reup.PNG",
         "https://cdn.oatmealdome.me/dolphinios/altstore/screenshots/screenshot_6s_4_edit.png"
       ],
-      "beta": false,
       "versions": [
         {
           "version": "3.2.1",
@@ -116,7 +115,6 @@
         "https://cdn.oatmealdome.me/dolphinios/altstore/screenshots/screenshot_6s_3_reup.PNG",
         "https://cdn.oatmealdome.me/dolphinios/altstore/screenshots/screenshot_6s_4_edit.png"
       ],
-      "beta": true,
       "versions": [
         {
           "version": "4.0.0b7",
