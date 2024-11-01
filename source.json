@@ -41,7 +41,7 @@
         },
         {
           "version" : "1.13",
-          "date" : "2024-10-15",
+          "date" : "2024-11-01",
           "localizedDescription" : "• Added support for custom layout options for the Cytrus core\n\n• Changed the number of columns for both Authentication and the Library screens\n\n• Fixed an issue where all iPad models could not receive touch",
           "downloadURL" : "https://github.com/Gaeritag/Gaeritag-Emulators-library/releases/download/Lastest/Folium_1.13.ipa",
           "size" : 19726678,
