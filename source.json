@@ -24,6 +24,14 @@
       ],
       "versions" : [
         {
+          "version" : "1.13",
+          "date" : "2024-11-01",
+          "localizedDescription" : "• Added support for custom layout options for the Cytrus core\n\n• Changed the number of columns for both Authentication and the Library screens\n\n• Fixed an issue where all iPad models could not receive touch",
+          "downloadURL" : "https://github.com/Gaeritag/Gaeritag-Emulators-library/releases/download/Lastest/Folium_1.13.ipa",
+          "size" : 19726678,
+          "minOSVersion" : "16.0"
+        },
+        {
           "version" : "1.11",
           "date" : "2024-10-15",
           "localizedDescription" : "• Added support for iPhone 16 series\n\n• Changed the Cytrus core to the latest original Citra source code\n\n• Removed Mandarine specific settings from the Cytrus settings screen\n\n• Update to the latest MoltenVK which should improve performance slightly",
@@ -37,14 +45,6 @@
           "localizedDescription" : "• Added support for the iPad mini 7 (A17 Pro)\n\n• Added support for cheats and multiplayer to the Cytrus core\n\n• Changed how the Import and Settings buttons appear on the Library controller\n\n• Changed the layout of the settings within the Settings menu",
           "downloadURL" : "https://github.com/Gaeritag/Gaeritag-Emulators-library/releases/download/Lastest/Folium_1.12.ipa",
           "size" : 19000000,
-          "minOSVersion" : "16.0"
-        },
-        {
-          "version" : "1.13",
-          "date" : "2024-11-01",
-          "localizedDescription" : "• Added support for custom layout options for the Cytrus core\n\n• Changed the number of columns for both Authentication and the Library screens\n\n• Fixed an issue where all iPad models could not receive touch",
-          "downloadURL" : "https://github.com/Gaeritag/Gaeritag-Emulators-library/releases/download/Lastest/Folium_1.13.ipa",
-          "size" : 19726678,
           "minOSVersion" : "16.0"
         }
       ],
