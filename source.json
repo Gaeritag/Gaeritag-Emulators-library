@@ -75,7 +75,7 @@
           "version" : "1.6",
           "date" : "2024-07-11",
           "localizedDescription" : "New\n\nApp Icon\n• Brand new legally-compliant app icon (thanks Caroline Moore!)\n• Includes alternative app icons designed by community members:\n• \"Halogenide\" by Sebastiaan de With\n• \"Ketchup\" by Ben McCarthy\n• \"Microchip\" by Sean Fletcher\n\niPad Support\n• Play games full screen on iPad's beautiful display\n• Brand new controller skins designed specifically for iPad (thanks Caroline Moore!)\n• Supports multiple windows in Stage Manager and Split View\n• Automatically pauses games when switching windows (optional)\n\nHandoff\n• Seamlessly switch between iPhone and iPad\n• Continues playing exactly where you left off\n• Also supports Delta on Apple Silicon Macs via Mac App Store\n\nmelonDS 0.9.5\n• Improves DS game compatibility & performance\n• BIOS files are now optional!\n• Supports \"inserting\" GBA games into DS dual-slot\n• Increased Fast Forward speed to 3x (A15 processor or later)\n\nMenu Button Gestures\n• Use gestures while holding menu button to perform quick actions\n• Menu + Horizontal Swipe: Fast Forward\n• Menu + Any Button: Hold Button\n• Menu + Double-Tap: Quick Save\n• Menu + Long-Press: Quick Load\n\nExperimental Features\n• New section in Settings for features by third-party contributors\n• Features are WIP and should be used at user's discretion\n• Available for Patrons on \"Beta Access\" tier or higher\n\nSave States\n• Sort save states by name\n• View all incompatible screenshots on a separate screen\n• Export save states to import into other emulators\n\n“Display Full Screen” AirPlay Setting\n• Control whether Delta shows games full screen on external displays\n• Disable to use multiple windows on external display with Stage Manager\n\nMisc.\n• Supports Game Mode on iOS 18+\n• Increased DS screen size for default edge-to-edge iPhone landscape skin\n\nFixed\n• Fixed exporting save file without file extension\n• Fixed interface rotating when playing WarioWare: Twisted!\n• Fixed Pokemon Black & White (2) freezing with C-Gear enabled",
-          "downloadURL" : "https://github.com/Gaeritag/Gaeritag-Emulators-library/releases/download/Lastest/Folium_1.11.ipa",
+          "downloadURL" : "https://github.com/Gaeritag/Gaeritag-Emulators-library/releases/download/Lastest/Delta_1.6.ipa",
           "size" : 87734964,
           "minOSVersion" : "14.0"
         }
@@ -154,6 +154,18 @@
       "versionDescription": "This is the first build based on the rewritten DolphiniOS code.\n\niOS 14 is required to run this build.",
       "downloadURL": "https://github.com/OatmealDome/dolphin-ios/releases/download/v4.0.0b7/Non-Jailbroken.ipa",
       "size": 13775833
+    }
+  ],
+  "news" : [
+    {
+      "title" : "Folium Updated!",
+      "identifier" : "folium-updated",
+      "caption" : "Folium, THE best 3DS emulator got an update, click here to see changelog!",
+      "date" : "2024-11-01",
+      "tintColor" : "70a15d",
+      "imageURL" : "https://i.imgur.com/8DfTwA5.png",
+      "appID" : "com.antique.Folium-iOS",
+      "notify" : true
     }
   ]
 }
