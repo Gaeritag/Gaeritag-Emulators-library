@@ -87,6 +87,37 @@
       "minOSVersion" : "14.0"
     },
     {
+      "name" : "Povenance",
+      "bundleIdentifier" : "group.org.provenance-emu.provenance",
+      "developerName" : "Joe Mattiello",
+      "subtitle" : "An iOS & tvOS Frontend for Multiple Emulators",
+      "tintColor" : "49a0f0",
+      "downloadURL" : "https://github.com/Gaeritag/Gaeritag-Emulators-library/releases/download/Lastest/Provenance_2.2.0.ipa",
+      "iconURL" : "https://i.imgur.com/C3N5gSe.jpeg",
+      "localizedDescription" : "Provenance is an emulator for a LOT of devices.",
+      "category" : "Entertainment",
+      "screenshotURLs" : [
+        "https://i.imgur.com/KdWHin7.png",
+        "https://i.imgur.com/0XEkJkq.png",
+        "https://i.imgur.com/NBrw4fh.png"
+      ],
+      "versions" : [
+        {
+          "version" : "2.2.0",
+          "date" : "2022-12-02",
+          "localizedDescription" : "New\n\n• Light/Dark theme\n\n• tvOS artwork options\n\n• Saturn Core options\n\n• Option for onscreen joystick with keyboard on/off, or never.\n\n• add build.yml for github actions\n\n• stella: joystick deadzone",
+          "downloadURL" : "https://github.com/Gaeritag/Gaeritag-Emulators-library/releases/download/Lastest/Provenance_2.2.0.ipa",
+          "size" : 33978209,
+          "minOSVersion" : "13.0"
+        }
+      ],
+      "version" : "2.2.0",
+      "versionDate" : "2022-12-02",
+      "versionDescription" : "New\n\n• Light/Dark theme\n\n• tvOS artwork options\n\n• Saturn Core options\n\n• Option for onscreen joystick with keyboard on/off, or never.\n\n• add build.yml for github actions\n\n• stella: joystick deadzone",
+      "size" : 33978209,
+      "minOSVersion" : "13.0"
+    },
+    {
       "name": "DolphiniOS",
       "bundleIdentifier": "me.oatmealdome.dolphinios-njb",
       "developerName": "OatmealDome",
