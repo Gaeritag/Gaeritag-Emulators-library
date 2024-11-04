@@ -88,7 +88,7 @@
     },
     {
       "name" : "Povenance",
-      "bundleIdentifier" : "group.org.provenance-emu.provenance",
+      "bundleIdentifier" : "org.provenance-emu.provenance",
       "developerName" : "Joe Mattiello",
       "subtitle" : "An iOS & tvOS Frontend for Multiple Emulators",
       "tintColor" : "49a0f0",
