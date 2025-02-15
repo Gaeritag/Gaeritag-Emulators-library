@@ -3,7 +3,7 @@
   "identifier" : "com.gaeritag.emulatorslibrary",
   "subtitle" : "An IPA library to find cool emulators.",
   "iconURL" : "https://cdn.discordapp.com/avatars/1147071422607409182/a_a2d3320ea8aee1e4a04b6e5cc54e7064?size=1024",
-  "headerURL" : "https://cdn.discordapp.com/banners/1147071422607409182/a_1ae55ed31d249bf30db65ff62ae3c444?size=4096",
+  "headerURL" : "https://cdn.discordapp.com/banners/1147071422607409182/a_1ae55ed31d249bf30db65ff62ae3c444?size=1024",
   "tintColor" : "14d8d2",
   "apps" : [
     {
