@@ -10,9 +10,9 @@
       "name" : "Folium",
       "bundleIdentifier" : "com.antique.Folium-iOS",
       "developerName" : "Jarrod Norwell",
-      "subtitle" : "A fully-featured iOS emulator for 3DS, DS and NES",
+      "subtitle" : "A fully-featured iOS emulator for 3DS, DS, NES and PS1",
       "tintColor" : "70a15d",
-      "downloadURL" : "https://github.com/Gaeritag/Gaeritag-Emulators-library/releases/download/Lastest/Folium_1.13.ipa",
+      "downloadURL" : "https://github.com/Gaeritag/Gaeritag-Emulators-library/releases/download/Lastest/Folium_1.14.ipa",
       "iconURL" : "https://i.imgur.com/W9PLRll.png",
       "localizedDescription" : "Import your own games and play !",
       "category" : "Entertainment",
@@ -23,6 +23,14 @@
         "https://i.imgur.com/MzrLadQ.png"
       ],
       "versions" : [
+        {
+          "version" : "1.14",
+          "date" : "2025-01-10",
+        "localizedDescription" : "• Added PlayStation 1 emulation with the Lychee core (based on a modified PSXE by allkern)\n• Added new default emulation controllers with visually appealing blur effects\n• Added a new Missing Files option to the settings menu to assist with initial set up\n• Added new options to the App Settings screen\n• Added a new blurry button type to skins for skin creators\n• Added real world pedometer data to the Cytrus core\n• Added gyroscopic data to the Cytrus core\n• Added widgets for Last Played and Play Time\n• Added cached artwork for the Lychee and Mango cores\n• Added the ability to delete games for the Lychee and Mango cores\n• Changed the Cytrus Web API option from the App Settings screen to the Cytrus Settings screen\n• Changed the cards on the Library screen to be the correct aspect ratio for their respective consoles\n• Fixed an issue where the Mango core would crash when no audio or video data is available\n• Fixed a minor memory leak for game icons using the Grape core\n• Removed swipe to tap which caused issues where the button would be stuck down",
+          "downloadURL" : "https://github.com/Gaeritag/Gaeritag-Emulators-library/releases/download/Lastest/Folium_1.14.ipa",
+          "size" : 23177530,
+          "minOSVersion" : "16.0"
+        },
         {
           "version" : "1.13",
           "date" : "2024-11-01",
@@ -48,10 +56,10 @@
           "minOSVersion" : "16.0"
         }
       ],
-      "version" : "1.13",
-      "versionDate" : "2024-11-01",
-      "versionDescription" : "• Added support for custom layout options for the Cytrus core\n\n• Changed the number of columns for both Authentication and the Library screens\n\n• Fixed an issue where all iPad models could not receive touch",
-      "size" : 19726678,
+      "version" : "1.14",
+      "versionDate" : "2025-01-10",
+      "localizedDescription" : "• Added PlayStation 1 emulation with the Lychee core (based on a modified PSXE by allkern)\n• Added new default emulation controllers with visually appealing blur effects\n• Added a new Missing Files option to the settings menu to assist with initial set up\n• Added new options to the App Settings screen\n• Added a new blurry button type to skins for skin creators\n• Added real world pedometer data to the Cytrus core\n• Added gyroscopic data to the Cytrus core\n• Added widgets for Last Played and Play Time\n• Added cached artwork for the Lychee and Mango cores\n• Added the ability to delete games for the Lychee and Mango cores\n• Changed the Cytrus Web API option from the App Settings screen to the Cytrus Settings screen\n• Changed the cards on the Library screen to be the correct aspect ratio for their respective consoles\n• Fixed an issue where the Mango core would crash when no audio or video data is available\n• Fixed a minor memory leak for game icons using the Grape core\n• Removed swipe to tap which caused issues where the button would be stuck down",
+      "size" : 23177530,
       "minOSVersion" : "16.0"
     },
     {
